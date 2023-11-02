@@ -13,7 +13,7 @@
 </p>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+QUEEN+NETHU+WA+BOT+𝚁𝙴𝙿𝙾.;CREATED+BY+DRAK+SHADOW+OFC;𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝚂𝙸𝙼𝙿𝙻𝙴+𝙱𝙾𝚃;𝙰𝙽𝙳+𝙸𝙽𝙲𝙻𝚄𝙳𝙴+𝙼𝙾𝚁𝙴+𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂;𝘛𝘏𝘈𝘕𝘒𝘚+𝘍𝘙𝘖+𝘝𝘐𝘚𝘐𝘛𝘐𝘕𝘎+𝘔𝘠+𝘎𝘐𝘛)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+@PATHUM+4563+GIT+HUB+ECCOUNT.;POWERD+BY+PANDA+BBH+OFC;පෝක්+කරන්+තමන්ගේ+පාඩුවෙ+බොටෙක්;හදන්+ඉන්න+කොල්ල්ක්+මං;𝘛𝘏𝘈𝘕𝘒𝘚+𝘍𝘙𝘖+𝘝𝘐𝘚𝘐𝘛𝘐𝘕𝘎+𝘔𝘠+𝘎𝘐𝘛)](https://git.io/typing-svg)
 
    <p align="center">
 <a href="https://github.com">
@@ -21,20 +21,20 @@
   </a>
   
 
-# Queen Nethu MD Bot
+# PANDA BBH OFFICIAL ACC
 
 > Queen Nethu MD Bot is a multipurpose WhatsApp bot using library!
 >
 >
 
- ### FORK QUEEN NETHU REPO
+ ### 🌿💗mokuth karannepa harithee 😩🥀
        
-●.  ***Click [FORK](https://github.com/mrhansamala/-Queen-Nethu-MD-Bot-/fork)***
+●.  ***Click [FORK](https://github.com/PATHUMH4563/-Queen-Nethu-MD-Bot-/fork)***
     
  
 
-   # 🧩 Deploy Queen Nethu MD
-     
+   # 😍 කොහොමද ඉතිම් සැප සනීප
+    
 <details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
  
