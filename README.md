@@ -17,13 +17,13 @@
 
    <p align="center">
 <a href="https://github.com">
-    <img src="https://i.ibb.co/qsYKDjq/681953-removebg-preview.png">
+    <img src="https://i.ibb.co/D8RgjfN/IMG-20231006-WA0009.jpg">
   </a>
   
 
 # PANDA BBH OFFICIAL ACC
 
-> Queen Nethu MD Bot is a multipurpose WhatsApp bot using library!
+> Panda BBH🌻 MD Bot is a multipurpose WhatsApp bot using library!
 >
 >
 
