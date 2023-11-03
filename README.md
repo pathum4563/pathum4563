@@ -40,7 +40,7 @@
  
 <br><br>   
     
-<h4 align="center"> Deploy on Repl.it
+<h4 align"> Deploy on Repl.it
 </h4>
 
 <p align="center" >
@@ -62,65 +62,7 @@
   
 <p align="center">
     <a href="https://railway.app/template/tZWmhj?referralCode=f3gg2m">
-    <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
-    </a>
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-<br>
-      
-<h4 align="center"> Deploy on Koyeb
-</h4>
-      
-<p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/mrhansamala/-Queen-Nethu-MD-Bot-:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=FantoX&&name=atlas">
-    <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
-    </a>
-</p>
-
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-
-<br>
- 
-<h4 align="center"> Deploy on Heroku
-</h4>
-
-</p>
-
-<p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/mrhansamala/-Queen-Nethu-MD-Bot-">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
-    </a>
-
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-
-<br>
-
-
-<h4 align="center"> Deploy on Mogenius
-</h4>
-  
-<p align="center">
-    <a href="https://studio.mogenius.com/">
-    <img src="https://www.cloudflare.com/static/90073b1e5bd8a0765640a20febb3dc22/mogenius_logo_quer.png" alt="Deploy on Mogenius" width="170px">
+    <img src="htt
 
 <!---
 pathum4563/pathum4563 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
