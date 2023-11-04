@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 💗 බොටෙක් හදාගන්න දන්නෑ බොක්කහ්...💔
 - <div align="center">
 <details>
     <summary>🍃<b>💗🌻පොඩ්ඩක් ටච් කරපිය🌻💗</b>🌿</b></summary>
@@ -13,7 +12,7 @@
 </p>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+@PATHUM+4563+GIT+HUB+ECCOUNT.;POWERD+BY+PANDA+BBH+OFC;පෝක්+කරන්+තමන්ගේ+පාඩුවෙ+බොටෙක්;හදන්+ඉන්න+කොල්ල්ක්+මං;𝘛𝘏𝘈𝘕𝘒𝘚+𝘍𝘙𝘖+𝘝𝘐𝘚𝘐𝘛𝘐𝘕𝘎+𝘔𝘠+𝘎𝘐𝘛)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+@PATHUM+4563+GIT+HUB+ECCOUNT.;POWERD+BY+PANDA+BBH+OFC;💓+❤+💗+🍃+😎🎧;ʜᴇʟʟᴏᴇ+ᴍᴏᴋᴏ+ᴡᴇᴍɴʀ+ɪᴛʜɪᴍ;𝘛𝘏𝘈𝘕𝘒𝘚+𝘍𝘙𝘖+𝘝𝘐𝘚𝘐𝘛𝘐𝘕𝘎+𝘔𝘠+𝘎𝘐𝘛)](https://git.io/typing-svg)
 
    <p align="center">
 <a href="https://github.com">
@@ -29,11 +28,11 @@
 
  ### 🌿💗mokuth karannepa harithee 😩🥀
        
-●.  ***Click [FORK](https://github.com/PATHUMH4563/-Queen-Nethu-MD-Bot-/fork)***
+●.  ***🎼🎵ɴʜ ɴʜ ᴍᴏᴋᴜᴛʜ ɴʜ [FORK](https://github.com/PATHUMH4563/-Queen-Nethu-MD-Bot-/fork)***
     
  
 
-   # 😍 කොහොමද ඉතිම් සැප සනීප
+   # 😍 Hellow bokkh doni sanipenda ithim....
     
 <details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
