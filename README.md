@@ -3,11 +3,11 @@
 
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=darkalphaxteam&label=Profile%20views&color=0e75b6&style=flat" alt="darkalphaxteam" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pathum4563&label=Profile%20views&color=0e75b6&style=flat" alt="darkalphaxteam" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathum4563" alt="pathum4563" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/GmThinura" target="blank"><img src="https://img.shields.io/twitter/follow/GmThinura?logo=twitter&style=for-the-badge" alt="GmThinura" /></a> </p>
+<p align="center"> <a href="https://twitter.com/GmThinura" target="blank"><img src="https://img.shields.io/twitter/follow/pandabbh?logo=twitter&style=for-the-badge" alt="Pandaeditz" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript**
 
